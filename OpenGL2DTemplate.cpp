@@ -17,7 +17,7 @@ using namespace std;
 #include <playsoundapi.h>
 #include <mmsystem.h>
 #include <tchar.h>
-
+//
 //  Methods Signatures
 void drawRect(int x, int y, int w, int h);
 void drawBird(int x, float r);
