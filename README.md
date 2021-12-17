@@ -7,3 +7,6 @@ Moreover, the player has 3 lives, each is lost on every collision with the barri
 Instructions: 
 - Run the game through Opengltemplate.cpp file. 
 - Use the 'a' key to make the bird jump. 
+
+<img width="304" alt="flappy bird scene 1" src="https://user-images.githubusercontent.com/51987270/146526032-d8faf821-1df9-406a-89c6-a1a163bc78a2.PNG">
+<img width="304" alt="scene 2" src="https://user-images.githubusercontent.com/51987270/146526040-0b837049-cf5b-4ca9-8340-94a08285ce9a.PNG">
